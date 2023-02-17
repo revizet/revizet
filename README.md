@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @revlze
+- 👋 Hi, I’m revlze
 - 👀 I'm interested in java
 - 🌱 I’m currently learning on a backend developer
 - 📫 How to reach me - plworkzzz@gmail.com
